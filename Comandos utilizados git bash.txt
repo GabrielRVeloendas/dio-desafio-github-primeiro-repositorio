@@ -1,0 +1,9 @@
+$ git commit -m "Aqui é oque é as alterações feitas" ( ele cria um commit para esse arquivo, após isso você pode dar um push e jogar ele pro github)
+
+$ git push origin main (envia todos os commits que tem localmente pra nuvem)
+
+$ cd (vai ou volta pra uma determinada pasta, se tu colocar cd e o nome da pasta ele vai pra dentro dela, se por cd .. ele volta)
+
+$ git status mostra os status da pasta, se teve alguma alteração etc.
+
+$ git add (para dizer para o git oq é isso, ou seja, ele deixar de ser untracked para trcked, para add tudo é add . ou add -A)
